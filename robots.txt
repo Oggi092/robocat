@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://robocat.pages.dev/sitemap.xml
+Sitemap: https://robocat-11i.pages.dev/sitemap.xml
